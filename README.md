@@ -2,7 +2,7 @@
 
 ### April 27, 2016
 
-An application that we will be using for JUnit automation testing
+An application that we will be using for JUnit testing
 
 * Git
 * Java
