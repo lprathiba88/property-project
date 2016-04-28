@@ -1,10 +1,8 @@
-### Advanced-Project
+### Java-Project
 
 ### April 20, 2016
 
-### Java-Project
-
-An advanced application that we will be using for Selenium automation testing
+An application that we will be using for JUnit automation testing
 
 * Git
 * Java
