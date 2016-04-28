@@ -4,7 +4,7 @@
   <artifactId>java-project</artifactId>
   <version>1.0-SNAPSHOT</version>
   <name>Java Project</name>
-  <description>An application that we use for JUnit automation testing.</description>
+  <description>An application that we use for JUnit testing.</description>
    <dependencies>
   <dependency>
    <groupId>junit</groupId>
