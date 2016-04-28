@@ -10,7 +10,7 @@
 
 package com.sqa.lp.util.helpers;
 
-import org.testng.annotations.*;
+import org.junit.*;
 
 /**
  * ArrayDisplayTest //ADDD (description of class)
@@ -48,14 +48,14 @@ public class DisplayTest {
 	/**
 	 * @throws java.lang.Exception
 	 */
-	@BeforeMethod
+	@Before
 	public void setUp() throws Exception {
 	}
 
 	/**
 	 * @throws java.lang.Exception
 	 */
-	@AfterMethod
+	@After
 	public void tearDown() throws Exception {
 	}
 
